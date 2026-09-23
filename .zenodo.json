@@ -1,0 +1,23 @@
+{
+  "title": "Prompt: Obtenção de Textos Completos para RSL",
+  "description": "Prompt operacional para recuperar e controlar a obtenção de textos completos de referências em revisões sistemáticas, bibliometrias e meta-análises, com planilhas de controle e contagens PRISMA. Integra a coleção de prompts de pesquisa acadêmica assistida por IA de Darci de Borba (Ipea).",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "language": "por",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Santos Júnior, Darci de Borba",
+      "affiliation": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+      "orcid": "0000-0001-9851-5034"
+    }
+  ],
+  "keywords": [
+    "pesquisa acadêmica",
+    "PRISMA",
+    "revisão sistemática",
+    "acesso aberto",
+    "inteligência artificial"
+  ],
+  "license": "mit"
+}
